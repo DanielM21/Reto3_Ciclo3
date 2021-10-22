@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="Reto 3 Full">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/model/Ortopedic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/model/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/OrtopedicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/ReservationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/crud/CategoryCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/crud/ClientCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/crud/MessageCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/crud/OrtopedicCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/repository/crud/ReservationCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/service/OrtopedicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/service/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/OrtopedicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/Ciclo3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/Ciclo3Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zKHLfkEtbHLUIxaVy9cRTXOhOB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ciclo3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.usa.ciclo3.ciclo3.Ciclo3Application" />
+      <module name="Ciclo3-Desarrollo_Software" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.usa.ciclo3.ciclo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ciclo3Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="" />
+      <created>1633889810195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633889810195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reto 3 Full" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reto 3 Full" />
+  </component>
+</project>
